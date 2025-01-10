@@ -1,5 +1,3 @@
-Here’s your GitHub-friendly README formatted in Markdown:
-
 # 📒 React Notes Application - AWS Amplify Deployment
 
 ## 📝 Introduction
@@ -109,5 +107,3 @@ Want to contribute? Feel free to fork this repository and enhance it! 🚀
 
 📌 Author: Irfan Ahamed Melekkandy Puthalath
 📌 Tech Stack: React, AWS Amplify, Cognito, S3, DynamoDB
-
-This README file is **properly formatted for GitHub**, with **emoji icons, code blocks, and structured sections** for clarity and readability. 🚀
